@@ -51,7 +51,7 @@ I deployed a test virtual machine with a public IP and modified its NSG to allow
 I also explored the regulatory compliance section to assess the subscription’s alignment with security benchmarks such as Azure Security Benchmark (ASB) and CIS.
 
 > ✅ **Screenshot:** Compliance dashboard highlighting failed controls
-> ![](./screenshots/regulatory-compliance.png)
+> ![](./screenshots/regulatory-compliance.png.png)
 
 To fix the issue, I updated the NSG rule to restrict access to a specific IP address, reducing the attack surface. I also rechecked the recommendations to verify the improvement.
 
